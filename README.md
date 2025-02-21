@@ -88,8 +88,8 @@ The project includes **three business cases**, each requiring data analysis and 
 ---
 
 ## **📢 Connect with Me**  
-🔥 **GitHub:** [Your GitHub Profile](https://github.com/YourUsername)  
-🔥 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/YourProfile)  
+🔥 **GitHub:** [kunal suhanda](https://github.com/KunalSuhanda)  
+🔥 **LinkedIn:** [kunal suhanda](https://www.linkedin.com/in/kunalsuhanda/)  
 
 ---
 
